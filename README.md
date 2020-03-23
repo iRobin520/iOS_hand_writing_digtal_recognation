@@ -3,4 +3,3 @@
 
 演示效果如下：
 ![image](https://github.com/iRobin520/iOS_hand_writing_digtal_recognation/blob/master/Images/IMG_62B7DB1A1308-1.jpeg)
-![image](https://github.com/iRobin520/iOS_hand_writing_digtal_recognation/blob/master/Images/IMG_01536B48C8C0-1.jpeg)
